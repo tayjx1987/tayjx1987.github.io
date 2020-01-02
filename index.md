@@ -2,8 +2,6 @@
 
 ---
 
-### Category Name 1 
-
 [Project 1: SAT & ACT Analysis](/project1)
 <br>
 <img src="images/test.jpg?raw=true"/>
