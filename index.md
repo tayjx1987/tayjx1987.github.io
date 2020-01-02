@@ -8,11 +8,15 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2: Ames Housing Data and Kaggle Challenge](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3: Web APIs & Classification](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 4: West Nile Virus Prediction](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
