@@ -1,5 +1,5 @@
 ## West Nile Virus Prediction 
-<img src="images/mos.jpg?raw=true"/>
+<img src="images/mos.png?raw=true"/>
 
 **Project description:** 
 West Nile virus (WNV) is the leading cause of mosquito-borne disease in the continental United States. It is most commonly spread to people by the bite of an infected mosquito. Mosquitoes can also transmit the WNV to birds and vice versa. Birds can also get the WNV by eating other infected birds.
