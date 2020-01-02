@@ -12,4 +12,4 @@
 
 Florida was chosen as it had the highest student population among the states with declining SAT participation rates.
 
-### [Codes](https://github.com/tayjx1987/Project-1) 
+[Codes](https://github.com/tayjx1987/Project-1) 
