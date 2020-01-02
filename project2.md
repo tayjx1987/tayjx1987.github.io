@@ -1,5 +1,5 @@
 ## Ames Housing Data and Kaggle Challenge 
-<img src="images/house.jpg?raw=true"/>
+<img src="images/house.dms?raw=true"/>
 
 **Project description:** Predict the price of a house at sale in Ames, IA, USA. 
 
