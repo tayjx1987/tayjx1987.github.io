@@ -1,5 +1,5 @@
 ## Web APIs & Classification
-<img src="images/parent.png?raw=true"/>
+<img src="images/parent.jpg?raw=true"/>
 
 **Project description:** 
 Using data obtained from webscraping, to train a classifier to predict which subreddit a given post came from. 
