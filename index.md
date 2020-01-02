@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1: SAT & ACT Analysis](/sample_page)
+[Project 1: SAT & ACT Analysis](/project1)
 <img src="images/test.jpg?raw=true"/>
 
 ---
