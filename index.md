@@ -17,7 +17,7 @@
 
 ---
 [Project 4: West Nile Virus Prediction](http://example.com/)
-<img src="images/westnile.png?raw=true"/>
+<img src="images/mos.png?raw=true"/>
 
 
 
