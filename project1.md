@@ -3,7 +3,7 @@
 
 **Project description:** First project under Data Science Immersive Course. To perform data cleaning and data manipulation. Plotting of graphs and charts to further understand the data statistics. Finally to recommend a state to the college board to increase the SAT participation rates.
 
-### Dataset
+### Data
 
 2017 ACT and SAT participation rates<br>
 2018 ACT and SAT participation rates
