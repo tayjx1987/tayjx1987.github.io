@@ -8,18 +8,20 @@
 <img src="images/test.jpg?raw=true"/>
 
 ---
-[Project 2: Ames Housing Data and Kaggle Challenge](/pdf/sample_presentation.pdf)
+[Project 2: Ames Housing Data and Kaggle Challenge](/project2)
 <img src="images/house.dms?raw=true"/>
 
 ---
-[Project 3: Web APIs & Classification](http://example.com/)
+[Project 3: Web APIs & Classification](/project3)
 <img src="images/parent.jpg?raw=true"/>
 
 ---
-[Project 4: West Nile Virus Prediction](http://example.com/)
+[Project 4: West Nile Virus Prediction](/project4)
 <img src="images/mos.png?raw=true"/>
 
-
+---
+[Project 5: Fake News Prediction](/project5)
+<img src="images/mos.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
