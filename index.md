@@ -20,8 +20,8 @@
 <img src="images/mos.png?raw=true"/>
 
 ---
-[Project 5: Fake News Prediction](/project5)
-<img src="images/mos.png?raw=true"/>
+[Project 5: Fake Review Prediction](/project5)
+<img src="images/yelp.gif?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
